@@ -1,13 +1,22 @@
-E-Shop Clone
-E-Shop Clone is a simple and modern e-commerce homepage clone with a responsive design. It is built using HTML, CSS, and Font Awesome icons. The project features product showcases, discount announcements, and contact sections. This project is a great starting point for those looking to learn e-commerce website design.
+# 🛒 E-Shop Clone
 
-Features:
+A modern e-commerce website clone project.  
+With a user-friendly interface and responsive design, it simulates a real online shopping experience.
 
-Responsive and clean design
+## 🎥 Demo
+![E-Shop](https://github.com/user-attachments/assets/61ade521-1386-42e2-b5c8-afc77e1f5a27)
 
-Featured product cards
 
-Discount and promotion announcements
+## ✨ Features
+- 🏠 Home, Products, About, and Contact pages  
+- 🔎 Product filtering and sorting options  
+- 🛍️ Add-to-cart buttons  
+- 📱 Fully responsive design (mobile-friendly)  
+- 📧 Contact form with integrated map section  
+- 👥 About page with team members and customer reviews  
 
-Footer with contact info and social media links
-![](./eSHOP.gif)
+## 🛠️ Technologies Used
+- **HTML5**  
+- **CSS3 (Flexbox & Grid, Responsive Design)**  
+- **Font Awesome** (for icons)  
+- **Vanilla JavaScript** (for basic interactivity)  
